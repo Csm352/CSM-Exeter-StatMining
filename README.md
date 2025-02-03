@@ -1,4 +1,6 @@
-By By Khan Muhammad (Postdoctoral Research Fellow) CSM University of Exeter: (Free for non-commercial use Refer as)
+By By Khan Muhammad (Postdoctoral Research Fellow) CSM University of Exeter: 
+https://experts.exeter.ac.uk/45113-khan-muhammad
+(Free for non-commercial use Refer as)
 PyMCubes Installation and Setup Guide
 
 Prerequisites
