@@ -79,6 +79,8 @@ If compilation issues persist, check for precompiled .whl files and install manu
 
 python -m pip install path_to_wheel_file.whl
 
-Install scipy, plotly, and ezdxf
+Install scipy, plotly, and ezdxf Python libraries into your envoronment (geology-env in this case)
+
+Store the GridWithRocktypes.csv data file at the environment location
 
 Now you're ready to use PyMCubes!
