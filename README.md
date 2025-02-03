@@ -1,7 +1,11 @@
 By By Khan Muhammad (Postdoctoral Research Fellow) CSM University of Exeter: 
 https://experts.exeter.ac.uk/45113-khan-muhammad
-Free for non-commercial use Refer as:
+Free for non-commercial use 
+###########################################
+
 Muhammad, K., & Oriz, J. M. (2025, January). MCubes application to generate 3D DXF geological model [Computer software]. GitHub. https://github.com/Csm352/MCubes-application-to-generate-3D-DXF-geological-model/
+
+###########################################
 PyMCubes Installation and Setup Guide
 
 Prerequisites
