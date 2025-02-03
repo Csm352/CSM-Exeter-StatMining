@@ -1,8 +1,3 @@
-# CSM-Exeter-StatMining
-A collective repository for statistical learning and AI applications in the mining value chain. Developed by researchers and students at CSM, University of Exeter, under Prof. Julian Ortiz, it focuses on automating geostatistics, metallurgical modelling, production scheduling, and mine automation, advancing mining innovation.
-
-Application of Marching Cubes Algorithm for 3D geological Modelling for given points of rock types on a grid.
-
 PyMCubes Installation and Setup Guide
 
 Prerequisites
@@ -57,6 +52,8 @@ Step 6: Verify Installation
 
 python -c "import mcubes; print(mcubes.__version__)"
 
+Make sure to install packages: scipy, plotly, and ezdxf
+
 Now you're ready to use PyMCubes!
 
 ====================================================
@@ -82,4 +79,6 @@ If compilation issues persist, check for precompiled .whl files and install manu
 
 python -m pip install path_to_wheel_file.whl
 
-N
+Install scipy, plotly, and ezdxf
+
+Now you're ready to use PyMCubes!
