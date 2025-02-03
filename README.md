@@ -52,7 +52,9 @@ Step 6: Verify Installation
 
 python -c "import mcubes; print(mcubes.__version__)"
 
-Make sure to install packages: scipy, plotly, and ezdxf
+Make sure to install packages into your envoronment (geology-env in this case): scipy, plotly, and ezdxf
+
+Store the GridWithRocktypes.csv data file at the environment location
 
 Now you're ready to use PyMCubes!
 
@@ -78,9 +80,5 @@ Optional: Install Precompiled Binaries
 If compilation issues persist, check for precompiled .whl files and install manually:
 
 python -m pip install path_to_wheel_file.whl
-
-Install scipy, plotly, and ezdxf Python libraries into your envoronment (geology-env in this case)
-
-Store the GridWithRocktypes.csv data file at the environment location
 
 Now you're ready to use PyMCubes!
